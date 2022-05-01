@@ -1,10 +1,15 @@
 #Steps to Run
 
 ###Go to following path
+
 `<Path-to-project>\src`
+
 ###Compile with following command
+
 `javac com\ledger\Geektrust.java`
+
 ###Run with following command
+
 ####Option 1: (Creates output file at default location)
 
 `java com.ledger.Geektrust <Path-to-inputfile>\<input-filename>`
