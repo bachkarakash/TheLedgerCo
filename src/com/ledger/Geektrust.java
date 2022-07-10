@@ -5,6 +5,7 @@ import com.ledger.processor.FileProcessor;
 public class Geektrust {
 
     public static void main(String[] args) {
+        System.out.println("Main");
         if(args.length != 0) processInput(args);
     }
 
